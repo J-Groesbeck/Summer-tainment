@@ -1,0 +1,16 @@
+* {
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+.carousel {
+    height: auto;
+    margin: 10px 0px;
+}
+
+.no-margin {
+    margin: 0px;
+}
