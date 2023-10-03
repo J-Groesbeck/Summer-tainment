@@ -18,3 +18,11 @@ body {
 img {
     border-radius: 10%;
 }
+
+.carousel-img {
+    height: 800px;
+}
+
+.cedar-img {
+    height: 300px;
+}
