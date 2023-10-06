@@ -31,3 +31,22 @@ img {
 .row {
   margin: 10px 0px;
 }
+
+.pittsburgh-img {
+  height: 400px;
+}
+
+.border-radius {
+  border-radius: 7%;
+}
+
+a {
+  color: white;
+}
+a:hover {
+  color: rgb(201, 201, 201);
+}
+
+.teal {
+  background-color: #187484;
+}
