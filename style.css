@@ -36,10 +36,6 @@ img {
   height: 400px;
 }
 
-.border-radius {
-  border-radius: 7%;
-}
-
 a {
   color: white;
 }
@@ -47,6 +43,30 @@ a:hover {
   color: rgb(201, 201, 201);
 }
 
-.teal {
+footer {
   background-color: #187484;
+}
+
+h2 {
+ margin-bottom: 30px;
+}
+
+/* Below is the CSS for the road that's in between sections */
+
+.road-ends,
+.road-in-between {
+  background-color: #666666;
+  height: 5px;
+}
+.road-white {
+  background-color: white;
+  height: 5px;
+}
+.road-center {
+  background-color: #666666;
+  height: 20px;
+}
+.road-yellow {
+  background-color: yellow;
+  height: 5px;
 }
